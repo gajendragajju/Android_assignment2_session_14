@@ -38,8 +38,8 @@ Contains various advanced api implementations that make it high quality app.
 
 ```
 Filmy for Android
-Copyright (c) 2016 Sajal Gupta (http://github.com/salroid) ,
-Ramankit Singh (http://github.com.webianks).
+gajendra kumar (http://github.com/gajendragajju) ,
+
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
