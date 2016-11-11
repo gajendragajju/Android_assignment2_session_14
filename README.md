@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Android%20Arsenal-Filmy-blue.svg?style=flat">
+
 
 # Filmy
 Open sourced awesome material designed movie app.
